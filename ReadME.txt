@@ -1,6 +1,4 @@
 Tema:
-The purpose of this task is to familizarize the students with the field of signal processing, specifically audio signal processing, and provide insight into how programs such as FL Studio or Ableton work.
-
 We will explore:
 
     How do we store an analog signal? What is stereo and mono?
